@@ -1,0 +1,5 @@
+{
+  "name": "TURN User Management UI (Simulated)",
+  "description": "A React web application that simulates managing TURN server users. It provides a UI to list, add, and delete users, mimicking interactions with a backend service that would use 'turnadmin' commands. This is a client-side simulation for demonstration purposes, built with React, TypeScript, and Tailwind CSS.",
+  "requestFramePermissions": []
+}

@@ -1,0 +1,10 @@
+
+Kontrol Edilecek Dosyalar ve Yapılar:
+1. tailwind.config.js veya tailwind.config.ts  → Tailwind config doğru mu?
+2. postcss.config.js → Tailwind plugin tanımlı mı?
+3. globals.css veya styles/global.css → @tailwind direktifleri var mı?
+4. next.config.js → özel postcss loader ya da plugin ayarı var mı?
+5. app/layout.tsx veya pages/_app.tsx → CSS dosyası global import edilmiş mi?
+6. package.json → tailwindcss, postcss, autoprefixer doğru sürümde mi?
+7. Hata mesajı ve hatalı class (örn: bg-background) özel tanımlıysa, @layer içinde tanımlanmış mı?
+

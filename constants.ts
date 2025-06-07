@@ -1,0 +1,2 @@
+
+export const DEFAULT_REALM = process.env.NEXT_PUBLIC_DEFAULT_REALM ?? "185.239.209.152";

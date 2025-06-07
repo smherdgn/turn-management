@@ -1,0 +1,7 @@
+[
+  {
+    "email": "admin@turnpanel.local",
+    "passwordHash": "adminpassword",
+    "role": "admin"
+  }
+]
